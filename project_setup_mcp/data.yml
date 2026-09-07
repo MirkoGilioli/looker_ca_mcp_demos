@@ -1,0 +1,5 @@
+connections:
+  - name: default_bigquery_connection
+    gcp_project: qwiklabs-gcp-00-ed68f0c19614
+    primary_dataset: mydataset
+    
